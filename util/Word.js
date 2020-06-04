@@ -7,7 +7,7 @@ class Word {
     return this.word;
   }
 
-  setWord(wrd) {
+  set setWord(wrd) {
     this.word = wrd;
   }
 }
